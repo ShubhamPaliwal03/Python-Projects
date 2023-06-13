@@ -2,7 +2,7 @@
 
 - The computer generates a random number out of a given range of whole numbers (0 to n) where n is the upper limit and it is user entered.
 
-- The user has three difficulty modes to select from : Easy, Medium and Hard, which basically decides how many number of attempts or guesses the user will get to win the game.
+- The user has three difficulty modes to select from : Easy, Medium and Hard, which basically decide how many number of attempts or guesses the user will get to win the game.
 
 - If the user is not able to make a correct guess, the loop is run until the number of attempts is exhausted and a message citing "YOU LOST" and what the correct number, but if he guesses the number correctly, the program ends with a message citing "YOU WON".
 
